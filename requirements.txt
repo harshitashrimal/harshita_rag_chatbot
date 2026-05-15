@@ -1,0 +1,6 @@
+langchain-groq
+langchain-community
+python-dotenv
+pypdf
+langchain-core
+langchain-pinecone 
